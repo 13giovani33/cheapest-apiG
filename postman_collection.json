@@ -1,8 +1,8 @@
 {
   "info": {
     "_postman_id": "16e9d70e-cfa2-4c2d-aca9-b80013f04aab",
-    "name": "Chiper API - Complete Collection",
-    "description": "Complete collection for testing all Chiper API endpoints including Inventory, Logistics, and Sales",
+    "name": "Cheapest API - Complete Collection",
+    "description": "Complete collection for testing all Cheapest API endpoints including Inventory, Logistics, and Sales",
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
   },
   "item": [

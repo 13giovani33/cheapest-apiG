@@ -7,7 +7,7 @@ export class DatabaseSeederService implements OnModuleInit {
   private readonly logger = new Logger(DatabaseSeederService.name);
   private seeded = false;
   private readonly seedNamespace =
-    process.env.DATABASE_SEED ?? 'chiper-api-database-seeder';
+    process.env.DATABASE_SEED ?? 'cheapest-api-database-seeder';
 
   constructor(
     @Inject('DATA_SOURCE')
