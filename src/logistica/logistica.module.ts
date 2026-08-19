@@ -62,8 +62,6 @@ import { repositoryProviders } from './repositories/repository.providers';
   providers: [
     // Repository Providers
     ...repositoryProviders,
-    // Clients
-    TiendaClientMock,
     // Repositories
     CatalogoRepository,
     ProductoRepository,
